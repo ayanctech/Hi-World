@@ -1,0 +1,65 @@
+Logging in build 2017.0.0.149 started at: Mon Jun 19 00:25:27 2017
+========================================
+[00:00:21.575] 00:25:50.965 | Error - IMS : IMSLib not loaded
+[00:10:43.442] 00:36:12.837 | Already creating a thumbnail for PI:ParameterizedHTMLPageItem U363. May not be a problem.
+[00:11:27.918] 00:36:57.313 | quitWithUI:Quitting Application. Called by: 
+[00:11:30.071] 00:36:59.459 | Quitting Application after 11.4 minutes. Called by: 
+[00:11:33.331] Logging shutdown normally
+
+==========
+Logging ended at: Mon Jun 19 00:37:02 2017
+
+Logging in build 2017.0.0.149 started at: Mon Jun 26 15:48:10 2017
+========================================
+[00:27:33.423] 16:15:45.940 | Error - IMS : IMSLib not loaded
+[01:47:56.428] 17:36:09.043 | Warning: Failed to find {param_autoplay} in HTML string to replace in widget:YouTube
+[01:48:02.153] 17:36:14.775 | Warning: Failed to find {param_autoplay} in HTML string to replace in widget:YouTube
+[01:48:09.891] 17:36:22.518 | Warning: Failed to find {param_autoplay} in HTML string to replace in widget:YouTube
+[01:48:14.493] 17:36:27.115 | Warning: Failed to find {param_autoplay} in HTML string to replace in widget:YouTube
+[01:50:16.876] 17:38:29.493 | Warning: Failed to find {param_autoplay} in HTML string to replace in widget:YouTube
+[01:50:28.451] 17:38:41.064 | Warning: Failed to find {param_height} in HTML string to replace in widget:YouTube
+[01:50:28.451] 17:38:41.064 | Warning: Failed to find {param_width} in HTML string to replace in widget:YouTube
+[01:51:06.203] 17:39:18.822 | Warning: Failed to find {param_height} in HTML string to replace in widget:YouTube
+[01:51:06.203] 17:39:18.822 | Warning: Failed to find {param_width} in HTML string to replace in widget:YouTube
+[01:52:16.840] 17:40:29.458 | Warning: Failed to find {param_height} in HTML string to replace in widget:YouTube
+[01:52:16.840] 17:40:29.458 | Warning: Failed to find {param_width} in HTML string to replace in widget:YouTube
+Logging in build 2017.0.0.149 started at: Mon Jun 26 17:45:31 2017
+========================================
+[00:00:12.465] 17:45:44.529 | Error - IMS : IMSLib not loaded
+[00:00:15.834] 17:45:47.906 | Doing recovery for null minisave fileA:zdsh3FfsziWzgdrZ-p9k5w fileB:f-se32Q8DH-Jl94w7kUD2A
+[00:00:15.834] 17:45:47.907 | Trying to recover unnamed file
+[00:00:16.396] 17:45:48.472 | Recovered file:Website-1 path:null highest UID:492 filesize:unknown mod date:unknown
+[00:00:17.145] 17:45:49.214 | Recovery Complete
+[00:01:25.083] 17:46:57.158 | Beginning SaveAs of 'Website-1' to file 'C:\Users\JidanPC\Desktop\Website-1.muse' highest UID:492
+[00:01:27.579] 17:46:59.648 | SaveAs complete for file 'C:\Users\JidanPC\Desktop\Website-1.muse' file size:3964928 mod Date:Mon Jun 26 17:46:59 GMT+0530 2017 highest UID:492
+[00:03:19.260] 17:48:51.327 | Warning: Failed to find {param_height} in HTML string to replace in widget:YouTube
+[00:03:19.260] 17:48:51.328 | Warning: Failed to find {param_width} in HTML string to replace in widget:YouTube
+[00:03:19.697] 17:48:51.776 | HTMLExport Website-1(1 pages) to 'www.actech97.wordpress.com' completed with 0 warnings.
+[02:16:52.423] 20:02:24.479 | Warning: Failed to find {param_username} in HTML string to replace in widget:Pinterest
+[02:16:52.423] 20:02:24.493 | Warning: Failed to find {param_label} in HTML string to replace in widget:Pinterest
+[02:16:56.339] 20:02:28.405 | Warning: Failed to find {param_username} in HTML string to replace in widget:Pinterest
+[02:16:56.339] 20:02:28.406 | Warning: Failed to find {param_label} in HTML string to replace in widget:Pinterest
+[02:16:57.899] 20:02:29.971 | Warning: Failed to find {param_username} in HTML string to replace in widget:Pinterest
+[02:16:57.899] 20:02:29.971 | Warning: Failed to find {param_label} in HTML string to replace in widget:Pinterest
+[02:19:59.437] 20:05:31.502 | Warning: Failed to find {param_height} in HTML string to replace in widget:Google Maps
+[02:19:59.437] 20:05:31.502 | Warning: Failed to find {param_width} in HTML string to replace in widget:Google Maps
+[02:19:59.453] 20:05:31.524 | Warning: Failed to find {param_username} in HTML string to replace in widget:Pinterest
+[02:19:59.453] 20:05:31.524 | Warning: Failed to find {param_label} in HTML string to replace in widget:Pinterest
+[02:34:36.022] 20:20:08.093 | Warning: Failed to find {param_height} in HTML string to replace in widget:Google Maps
+[02:34:36.022] 20:20:08.093 | Warning: Failed to find {param_width} in HTML string to replace in widget:Google Maps
+[02:34:36.038] 20:20:08.116 | Warning: Failed to find {param_username} in HTML string to replace in widget:Pinterest
+[02:34:36.038] 20:20:08.116 | Warning: Failed to find {param_label} in HTML string to replace in widget:Pinterest
+[02:34:37.239] 20:20:09.308 | HTMLExport Website-2(4 pages) to 'abc.com' completed with 0 warnings.
+[02:37:07.078] 20:22:39.152 | Warning: Failed to find {param_height} in HTML string to replace in widget:Google Maps
+[02:37:07.078] 20:22:39.152 | Warning: Failed to find {param_width} in HTML string to replace in widget:Google Maps
+[02:37:07.109] 20:22:39.176 | Warning: Failed to find {param_username} in HTML string to replace in widget:Pinterest
+[02:37:07.109] 20:22:39.176 | Warning: Failed to find {param_label} in HTML string to replace in widget:Pinterest
+[02:39:48.867] 20:25:20.937 | quitWithUI:Quitting Application. Called by: 
+[02:40:06.620] 20:25:38.686 | Beginning SaveAs of 'Website-2' to file 'E:\HTML\Website-2.muse' highest UID:497
+[02:40:08.710] 20:25:40.787 | SaveAs complete for file 'E:\HTML\Website-2.muse' file size:3375104 mod Date:Mon Jun 26 20:25:40 GMT+0530 2017 highest UID:497
+[02:40:16.822] 20:25:48.898 | Quitting Application after 160.2 minutes. Called by: MuseApp/quitAfterModal+EventDispatcher/dispatchEventFunction+EventDispatcher/dispatchEvent+UIComponent/dispatchEvent
+[02:40:40.160] Logging shutdown normally
+
+==========
+Logging ended at: Mon Jun 26 20:26:22 2017
+
